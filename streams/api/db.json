@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "coding stuff",
+      "description": "coding stream",
+      "id": 1
+    },
+    {
+      "title": "coding stuff",
+      "description": "coding stream",
+      "id": 2
+    },
+    {
+      "title": "Gymming",
+      "description": "All about gym",
+      "userId": "113992001809363087060",
+      "id": 3
+    },
+    {
+      "title": "My Stream",
+      "description": "Description of Stream inside",
+      "userId": "113992001809363087060",
+      "id": 4
+    },
+    {
+      "title": "Food",
+      "description": "All healthy stuff here",
+      "userId": "113992001809363087060",
+      "id": 5
+    },
+    {
+      "title": "Programmatic Nav",
+      "description": "This is an internal nav",
+      "userId": "113992001809363087060",
+      "id": 6
+    }
+  ]
+}
